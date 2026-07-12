@@ -2,5 +2,5 @@
 2:I[960,["116","static/chunks/116-8904661d07c9a979.js","56","static/chunks/56-c8e174d209cae7e5.js","582","static/chunks/582-154b525664da7fb3.js","182","static/chunks/app/%5Bslug%5D/page-3fa0653fd4123481.js"],"default"]
 3:I[484,[],"OutletBoundary"]
 4:"$Sreact.suspense"
-0:{"rsc":["$","$1","c",{"children":[["$","$L2",null,{"dataByLocale":{"zh":{"type":"card","config":{"type":"card","title":"学术服务","description":"","items":[{}]}},"en":{"type":"card","config":{"type":"card","title":"Services","description":"Professional services and community involvement.","items":[{"title":"Reviewer","subtitle":"Journal Name","date":"2024","content":"Reviewed papers for..."}]}}},"defaultLocale":"en"}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"enqbsPHn2uoQHHP8czRhq"}
+0:{"rsc":["$","$1","c",{"children":[["$","$L2",null,{"dataByLocale":{"zh":{"type":"card","config":{"type":"card","title":"学术服务","description":"","items":[{}]}},"en":{"type":"card","config":{"type":"card","title":"Services","description":"","items":[{}]}}},"defaultLocale":"en"}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"xnQ55lvXmvG0okgKMHryN"}
 5:null
